@@ -62,10 +62,10 @@
 
 ### Further Resources
 
-- MDN (Mozilla Development Network)
+- [MDN (Mozilla Development Network)](https://developer.mozilla.org/en-US/)
   - Official documentation on JavaScript.
 
-- Eloquent Javascript
+- [Eloquent Javascript](https://eloquentjavascript.net/)
   - Open source book for further reading.
 
 - Community Curated Websites
