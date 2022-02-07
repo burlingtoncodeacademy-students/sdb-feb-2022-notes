@@ -13,7 +13,7 @@
 
 ### What is coding NOT?
 
-- Coding is **not** mathematical
+- Coding is **not** identical to mathematics
   - some logic (if/then/and/or/ect)
   - Mostly just counting ("do this 10 times")
 
