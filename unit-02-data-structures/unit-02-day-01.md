@@ -102,8 +102,6 @@ console.log(fruits)
 
 ```
 
-`fruits[0] = 'apricot'` will set the item in the `[0]` index to the String 'apricot'
-
 ### **Arrays into Strings**
 
 There are multiple ways to turn an Array into a String:
