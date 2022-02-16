@@ -60,7 +60,7 @@ breed: 'Brittany',
 
 }
 
-console.log(dog["breed"] //=> 'Brittany'
+console.log(dog["breed"]) //=> 'Brittany'
 
 ```
 
